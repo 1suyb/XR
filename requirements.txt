@@ -1,0 +1,26 @@
+astunparse==1.6.3
+blinker==1.8.2
+clip @ git+https://github.com/openai/CLIP.git@dcba3cb2e2827b402d2701e7e1c7d9fed8a20ef1
+dnspython==2.6.1
+expecttest==0.2.1
+Flask==3.0.3
+fsspec==2024.3.1
+ftfy==6.2.0
+hypothesis==6.100.1
+itsdangerous==2.2.0
+jsonpointer==2.1
+lark==1.1.9
+mkl-service==2.4.0
+optree==0.11.0
+python-etcd==0.4.5
+regex==2024.7.24
+sortedcontainers==2.4.0
+torch==2.3.0
+torchaudio==2.3.0
+torchelastic==0.2.2
+torchvision==0.18.0
+triton==2.3.0
+types-dataclasses==0.6.6
+typing_extensions==4.11.0
+wcwidth==0.2.13
+Werkzeug==3.0.3
